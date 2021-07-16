@@ -1,0 +1,9 @@
+body{
+    padding:10px
+}
+input{
+    width:1000px !important;
+}
+#loginForm{
+    border: 1px solid black;
+}
